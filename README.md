@@ -1,2 +1,2 @@
 # Peer2PeerBook
-The repo for my book on peer 2 peer networking! :)
+If you're reading this, get ready for another ebook ;)
