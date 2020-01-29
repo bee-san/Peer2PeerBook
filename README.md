@@ -1,2 +1,2 @@
 # Peer2PeerBook
-If you're reading this, get ready for another ebook ;)
+The GitHub repo for my new peer 2 peer networking book, [exclusively on my blog.](https://page.skerritt.blog/peer/)
